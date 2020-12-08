@@ -1,1 +1,4 @@
-hello, I am usiong vs code  to edit the example1 text file as I have no vim editor like nayeem vai. Any way This is just practice perpose. No changes yet .
+hello, I am usiong vs code  to edit the example1 text file as I have no vim editor like nayeem vai. Any way This is just practice perpose.
+ No changes yet .
+
+ I am changing my example 1 file for the firts time . 
